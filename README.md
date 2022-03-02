@@ -1,5 +1,6 @@
-- HELLO MY NAME IS TOMAS "POTATO" JAKUBEC
-- I LIKE VALORANT
+- 16
+- i like valorant
+- CS student jak bager
 
 <!---
 potatko/potatko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
