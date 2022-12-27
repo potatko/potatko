@@ -1,6 +1,6 @@
 - 16
-- i like valorant
-- CS student jak bager
+- python enjoyer
+- All of my repos are private
 
 <!---
 potatko/potatko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
