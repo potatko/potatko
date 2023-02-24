@@ -1,5 +1,4 @@
 - 16
-- python enjoyer
 - All of my repos are private
 
 <!---
