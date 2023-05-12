@@ -1,5 +1,5 @@
 - 17
-- All of my repos are private
+
 
 <!---
 potatko/potatko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
